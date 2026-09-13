@@ -1,1 +1,1 @@
-# credit-card-approval-analysis
+# Credit Card Approval & Spending Behavior Analysis
