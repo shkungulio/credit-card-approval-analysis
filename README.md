@@ -1,3 +1,5 @@
+[![Project Cover](data/credit_card_analysis)]()
+
 # Credit Card Approval & Spending Behavior Analysis
 
 **An end-to-end machine learning analysis of 1,319 credit card applications — including the target-leakage trap that makes most public analyses of this dataset invalid.**
