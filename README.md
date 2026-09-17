@@ -1,4 +1,4 @@
-[![Project Cover](data/credit_card_analysis.svg)]()
+[![Project Cover](src/credit_cards_analysis.svg)]()
 
 # Credit Card Approval & Spending Behavior Analysis
 
