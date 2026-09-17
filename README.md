@@ -228,9 +228,8 @@ Runs top-to-bottom in under two minutes on a laptop. No GPU required.
 
 ## Author
 
-**Seif Kungulio**
+**Seif Kungulio** - M.S. Data Analytics
 
-Data Analytics & Data Science
 
 ## Dataset
 `CreditCard.csv`, a well-known credit card application dataset distributed with the R **AER** package ([Applied Econometrics with R](https://cran.r-project.org/package=AER)), originally from Greene, *Econometric Analysis*.
